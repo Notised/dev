@@ -1,0 +1,178 @@
+[
+    {
+        "PartnerKey": "",
+        "ID": 7312933,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 0,
+        "Name": "Merck & Co - HH",
+        "IsActive": 1,
+        "ParentName": "",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 7328239,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 518001800,
+        "Name": "EURAM-SIT",
+        "IsActive": 1,
+        "ParentName": "EURAM-SIT Parent",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 7328241,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 518001800,
+        "Name": "Product DEV-SIT",
+        "IsActive": 1,
+        "ParentName": "EURAM-SIT Parent",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 7328243,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 518001800,
+        "Name": "Training",
+        "IsActive": 1,
+        "ParentName": "EURAM-SIT Parent",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 7329545,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 518001800,
+        "Name": "EURAM-SIT France",
+        "IsActive": 1,
+        "ParentName": "EURAM-SIT Parent",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 7329546,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 518001800,
+        "Name": "EURAM-SIT UK",
+        "IsActive": 1,
+        "ParentName": "EURAM-SIT Parent",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 7329547,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 518001800,
+        "Name": "EURAM-SIT Germany",
+        "IsActive": 1,
+        "ParentName": "EURAM-SIT Parent",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 7329548,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 518001800,
+        "Name": "EURAM-SIT Italy",
+        "IsActive": 1,
+        "ParentName": "EURAM-SIT Parent",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 7329549,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 518001800,
+        "Name": "EURAM-SIT Canada",
+        "IsActive": 1,
+        "ParentName": "EURAM-SIT Parent",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 7329550,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 518001800,
+        "Name": "EURAM-SIT Spain",
+        "IsActive": 1,
+        "ParentName": "EURAM-SIT Parent",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 7329551,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 7329555,
+        "Name": "Japan-SIT",
+        "IsActive": 1,
+        "ParentName": "APAC-SIT Parent",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 7329553,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 518003201,
+        "Name": "LATAM-SIT",
+        "IsActive": 1,
+        "ParentName": "LATAM-SIT Parent",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 7329555,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 7312933,
+        "Name": "APAC-SIT Parent",
+        "IsActive": 1,
+        "ParentName": "Merck & Co - HH",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 518001800,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 7312933,
+        "Name": "EURAM-SIT Parent",
+        "IsActive": 1,
+        "ParentName": "Merck & Co - HH",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 518002105,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 7329555,
+        "Name": "APAC-SIT",
+        "IsActive": 1,
+        "ParentName": "APAC-SIT Parent",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 518003201,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 7312933,
+        "Name": "LATAM-SIT Parent",
+        "IsActive": 1,
+        "ParentName": "Merck & Co - HH",
+        "Subscription": ""
+    }
+]
